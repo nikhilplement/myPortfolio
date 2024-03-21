@@ -20,6 +20,10 @@ body {
   /* overflow: hidden; */
 }
 
+.rounded-circle{
+  border-radius: 10% !important;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
